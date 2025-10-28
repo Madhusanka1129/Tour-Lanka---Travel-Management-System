@@ -232,6 +232,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 👨‍💻 Developer
 S.P Madhusanka
 
-GitHub: @yourusername
+GitHub: @Madhusanka1129
 
-Email: your.email@example.com
+Email: pradeepmadushanka170@gmail.com
